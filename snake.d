@@ -1,0 +1,1 @@
+C:\Users\ACER\Documents\belajar_rust\snake\target\debug\snake.exe: C:\Users\ACER\Documents\belajar_rust\snake\src\draw.rs C:\Users\ACER\Documents\belajar_rust\snake\src\game.rs C:\Users\ACER\Documents\belajar_rust\snake\src\main.rs C:\Users\ACER\Documents\belajar_rust\snake\src\snake.rs
